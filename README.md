@@ -13,5 +13,5 @@ This software is free to use for personal, educational, and non-profit purposes.
 
 ---
 
-![MSXP](https://github.com/dvdh1961/MSXP/blob/main/Images/MSX_EMULATOR.png)
+![MSXP](https://github.com/dvdh1961/MSXP/blob/main/Images/MSX-EMULATOR.png)
 
