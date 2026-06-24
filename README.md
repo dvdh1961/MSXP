@@ -35,3 +35,18 @@ For the moment only MSX 1 is supported, ROMS,DISKS & TAPES can be played.
 
 ![MSXP](https://github.com/dvdh1961/MSXP/blob/main/Images/MSX-EMULATOR.png)
 
+## Credits
+
+Thanks to everyone who shared their knowledge and inspiration — without them, this project would never have come to life.
+- Marat Fayzullin      (https://fms.komkon.org/ColEm/) (TMS code)
+- Juergen Buchmueller  (R.I.P.) (z80 code)
+
+## Support MSX+
+
+MSX+ is free but you can donate to support its development
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=dannyvdh@pandora.be)
+
+## License
+
+MSX+ software is free to use for personal, educational, and non-profit purposes.
