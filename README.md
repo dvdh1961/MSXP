@@ -1,4 +1,4 @@
-![Logo](https://github.com/dvdh1961/ADAMP/blob/main/scrcpp/MSXP.png)
+![Logo](https://github.com/dvdh1961/ADAMP/blob/main/Images/MSXP_SPLASH.png)
 
 ---
 
