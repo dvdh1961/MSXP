@@ -23,7 +23,7 @@ For the moment only MSX 1 is supported, ROMS,DISKS & TAPES can be played.
 [![release](https://img.shields.io/badge/Latest%20release-windows8+_64_ZIP-green.svg)](https://github.com/dvdh1961/MSXP/releases/download/0.1.06.26/WINDOWS_MSXP_0.1.06.26.zip)
 [![release](https://img.shields.io/badge/Latest%20release-linux64_ZIP-blue.svg)](https://github.com/dvdh1961/MSXP/releases/download/0.1.06.26/LINUX_MSXP_0.1.06.26.zip)
 ![Current Release](https://img.shields.io/badge/Version-V0.1.06.26-yellow)
-![Downloads](https://img.shields.io/github/downloads/dvdh1961/MSXP/total?style=for-the-badge&label=Downloads&color=orange)
+![Downloads](https://img.shields.io/github/downloads/dvdh1961/MSXP/total?label=Downloads&color=orange)
 ![Stars](https://img.shields.io/github/stars/dvdh1961/MSXP)
 ![Issues](https://img.shields.io/github/issues/dvdh1961/MSXP)
 
