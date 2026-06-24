@@ -38,7 +38,7 @@ For the moment only MSX 1 is supported, ROMS,DISKS & TAPES can be played.
 ## Credits
 
 Thanks to everyone who shared their knowledge and inspiration — without them, this project would never have come to life.
-- Marat Fayzullin      (https://fms.komkon.org/ColEm/) (TMS code)
+- Marat Fayzullin      (https://fms.komkon.org/ColEm/) (part of TMS code)
 - Juergen Buchmueller  (R.I.P.) (z80 code)
 
 ## Support MSX+
