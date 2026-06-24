@@ -17,7 +17,7 @@ Language Models (LLMs), we can achieve the full potential of our programming ski
 
 For the moment only MSX 1 is supported, ROMS,DISKS & TAPES can be played.
 
-## 💾 Downloads
+## 💾 Downloads (Not ready online at the moment)
 
 [![release](https://img.shields.io/badge/Latest%20release-windows8+_64_EXE-green.svg)](https://github.com/dvdh1961/MSXP/releases/download/0.1.06.26/WINDOWS_MSXP_0.1.06.26.exe)
 [![release](https://img.shields.io/badge/Latest%20release-windows8+_64_ZIP-green.svg)](https://github.com/dvdh1961/MSXP/releases/download/0.1.06.26/WINDOWS_MSXP_0.1.06.26.zip)
